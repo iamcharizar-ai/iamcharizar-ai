@@ -58,10 +58,12 @@ PROFILE_TOKEN=ghp_yourtoken node scripts/generate-heatmap.mjs contrib-heatmap.sv
 
 ## Notes
 
-- **`github-readme-stats` is on a shared instance that rate-limits.** It
-  returned a 503 during setup. If the stats cards show errors, deploy your own
-  instance to Vercel (the upstream repo documents this) and swap the hostname in
-  the README.
+- **`github-readme-stats` (stats + top languages cards) was dropped.** The
+  shared public instance was returning 503s. `github-readme-streak-stats`
+  (a separate service) was fine and is still in the README. If you want the
+  stats/languages cards back later, self-host `github-readme-stats` on your
+  own Vercel (already logged in as `iamcharizar-7402` — the upstream repo
+  documents the one-click deploy) and swap the hostname in the README.
 - **Animation only survives via `<img src>`.** GitHub strips CSS animation from
   SVG pasted inline into markdown. Keep the heatmap as an `<img>` reference.
 - **Sprite options** are in the Cool-GIFs-For-GitHub catalog under "Pixel GiFs".

@@ -126,10 +126,7 @@ Short one-line description of what it does and who it's for.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamcharizar-ai&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=e6edf3&icon_color=39d353&include_all_commits=true&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iamcharizar-ai&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=7d8590" alt="Contribution streak" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcharizar-ai&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=e6edf3&langs_count=8" alt="Most used languages" />
 
 </div>
 

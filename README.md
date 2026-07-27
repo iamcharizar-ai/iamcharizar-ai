@@ -31,6 +31,14 @@
 
 ---
 
+### `$ ./contributions.sh`
+
+<div align="center">
+  <img src="./contrib-heatmap.svg" alt="Contribution heatmap for the last year" width="100%" />
+</div>
+
+---
+
 ### `$ whoami`
 
 <img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="" />
@@ -48,14 +56,6 @@ that makes them reliable rather than merely impressive in a demo.
 - Reach me at **iamcharizar@gmail.com**
 
 <br clear="right" />
-
----
-
-### `$ ./contributions.sh`
-
-<div align="center">
-  <img src="./contrib-heatmap.svg" alt="Contribution heatmap for the last year" width="100%" />
-</div>
 
 ---
 

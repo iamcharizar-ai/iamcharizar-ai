@@ -1,8 +1,8 @@
 <!-- ============================================================
-     Rishabh Sharma — GitHub profile README
-     Palette: GitHub dark tokens only (#0d1117 / #30363d / #e6edf3 / #39d353)
-     contrib-heatmap.svg is generated daily by .github/workflows/update-profile-art.yml
-     ============================================================ -->
+Rishabh Sharma — GitHub profile README
+Palette: GitHub dark tokens only (#0d1117 / #30363d / #e6edf3 / #39d353)
+contrib-heatmap.svg is generated daily by .github/workflows/update-profile-art.yml
+============================================================ -->
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 ### `$ ./contributions.sh`
 
 <div align="center">
-  <img src="./contrib-heatmap.svg" alt="Contribution heatmap for the last year" width="100%" />
+<img src="./contrib-heatmap.svg" alt="Contribution heatmap for the last year" width="100%" />
 </div>
 
 ---
@@ -71,50 +71,50 @@ that makes them reliable rather than merely impressive in a demo.
 
 ### `$ ls ~/projects`
 
-> Pinned repositories appear above this section — this is the annotated version.
+> Plain-English versions — what each project actually does, no jargon.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🌲 Project name
-Short one-line description of what it does and who it's for.
+#### 🌲 ARBOR
+A game-style "skill tree" website for real life — turns goals like fitness, guitar, and coding into a visual map you level up, instead of a boring checklist.
 
-`Next.js` `TypeScript` `Supabase`
+`JavaScript` `React` `Vite`
 
-[Repo](#) · [Live](#)
+[Repo](https://github.com/iamcharizar-ai/Project_Arbor) · [Live](https://arbor-umber.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-#### ⚡ Project name
-Short one-line description of what it does and who it's for.
+#### ⚡ Amazon Inventory Watchdog
+A bot that checks Amazon stock levels every morning and emails an alert before a product actually sells out.
 
-`Python` `LLM` `Automation`
+`Python` `Automation` `Amazon SP-API`
 
-[Repo](#) · [Live](#)
+[Repo](https://github.com/iamcharizar-ai/amazon-sp-api-inventory-watchdog)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 📊 Project name
-Short one-line description of what it does and who it's for.
+#### 📊 LifeOS
+A personal daily dashboard — one home screen for habits, health, and spending, synced instantly between phone and PC.
 
-`TypeScript` `React`
+`TypeScript` `React` `Supabase`
 
-[Repo](#) · [Live](#)
+[Repo](https://github.com/iamcharizar-ai/lifeos.md)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 Project name
-Short one-line description of what it does and who it's for.
+#### 🧠 JARVIS
+A voice-first AI assistant that actually listens and talks back in real time, and can recall facts from your own notes when you ask it to remember something.
 
-`Python` `FastAPI`
+`Python` `FastAPI` `LLM`
 
-[Repo](#) · [Live](#)
+[Repo](https://github.com/iamcharizar-ai/Project_Horizon)
 
 </td>
 </tr>
@@ -135,11 +135,11 @@ Short one-line description of what it does and who it's for.
 ### `$ ./snake.sh`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamcharizar-ai/iamcharizar-ai/output/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamcharizar-ai/iamcharizar-ai/output/snake-light.svg" />
-    <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/iamcharizar-ai/iamcharizar-ai/output/snake.svg" />
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamcharizar-ai/iamcharizar-ai/output/snake.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamcharizar-ai/iamcharizar-ai/output/snake-light.svg" />
+<img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/iamcharizar-ai/iamcharizar-ai/output/snake.svg" />
+</picture>
 </div>
 
 ---

@@ -21,9 +21,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: yalongwastaken/git-koi@v1
+      - uses: iamcharizar-ai/git-koi@main
         with:
           body: white
+          ripples: "true"
 
       - name: Commit koi if changed
         run: |

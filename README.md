@@ -144,6 +144,14 @@ A voice-first AI assistant that actually listens and talks back in real time, an
 
 ---
 
+### `$ ./koi.sh`
+
+<div align="center">
+<img src="./koi/koi.gif" width="256" alt="My koi, grown from my GitHub activity" />
+</div>
+
+---
+
 <div align="center">
 
 <sub>Heatmap regenerated daily by <a href="./.github/workflows/update-profile-art.yml">GitHub Actions</a>.</sub>
